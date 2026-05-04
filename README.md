@@ -1,4 +1,4 @@
-# Café Fontainebleau ☕
+# Café Fontenebleau ☕
 
 Um projeto de site institucional para uma cafeteria fictícia, desenvolvido como parte de um curso de desenvolvimento web para praticar e consolidar fundamentos de **HTML5** e **CSS3**.
 
